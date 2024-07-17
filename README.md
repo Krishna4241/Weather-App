@@ -28,18 +28,18 @@ This is a simple weather application built with HTML, CSS, and JavaScript. It al
 
 ## Setup Instructions
 
-1. Clone the repository:
+- 1. Clone the repository:
     bash
    git clone https://github.com/Krishna4241/weather-app.git
-2.Navigate into the project directory:
+- 2.Navigate into the project directory:
     bash
    download zip file of project
-3.Extract file name called:"PROJECT 1"
+- 3.Extract file name called:"PROJECT 1"
    now you have total code
-4.Register or sign in into OpenweatherappMap
+- 4.Register or sign in into OpenweatherappMap
   here is link "https://openweathermap.org"
    and get your API key in your Profile
-5.Replace 'YOUR_API_KEY'
+- 5.Replace 'YOUR_API_KEY'
    Replace "YOUR_API_KEY" in script.js with your actual API key.
 
 
