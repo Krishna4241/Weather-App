@@ -19,6 +19,8 @@ This is a simple weather application built with HTML, CSS, and JavaScript. It al
 
 ## Screenshots
 
+![image alt](Screenshot _1.jpeg)
+
 
 
 
