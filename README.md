@@ -19,7 +19,7 @@ This is a simple weather application built with HTML, CSS, and JavaScript. It al
 
 ## Screenshots
 
-![image alt]([Screenshot _1.jpeg](https://github.com/Krishna4241/Weather-App/blob/f194ed147b2d657afb6eb0d3edbf0f0bea22a99b/Screenshot%20_1.jpeg))
+![image alt](https://github.com/Krishna4241/Weather-App/blob/f194ed147b2d657afb6eb0d3edbf0f0bea22a99b/Screenshot%20_1.jpeg)
 
 
 
