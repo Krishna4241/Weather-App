@@ -50,7 +50,6 @@ This is a simple weather application built with HTML, CSS, and JavaScript. It al
   Background Images: Unsplash 
 
   
-## License
-    This software is available under the following licenses:
-
-  * MIT   
+# License
+    This software is available under the following licenses
+    * MIT   
