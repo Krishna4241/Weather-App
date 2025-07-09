@@ -6,7 +6,8 @@ const error404 = document.querySelector('.not-found');
 const inputField = document.getElementById('uniqueId');
 
 const fetchWeather = (city) => {
-    const apiKey = import.meta.env.VITE_API_KEY;
+    appid=${apikey}
+
 
 
     fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${apikey}`)
