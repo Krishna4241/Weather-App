@@ -6,11 +6,10 @@ const error404 = document.querySelector('.not-found');
 const inputField = document.getElementById('uniqueId');
 
 const fetchWeather = (city) => {
-    appid=${apikey}
+    const apiKey = "your_actual_openweathermap_api_key";  
 
+    fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${apiKey}`)
 
-
-    fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${apikey}`)
         .then(response => {
             if (!response.ok) {
                 throw new Error('City not found');
