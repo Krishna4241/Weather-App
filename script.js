@@ -6,7 +6,7 @@ const error404 = document.querySelector('.not-found');
 const inputField = document.getElementById('uniqueId');
 
 const fetchWeather = (city) => {
-    const apiKey = "your_actual_openweathermap_api_key";  
+    const apiKey = "0db3b9595d6b866969726bfec647999d";  
 
     fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${apiKey}`)
 
